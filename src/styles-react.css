@@ -1,0 +1,23 @@
+form {
+  display: block;
+}
+
+h1 {
+  text-align: center;
+}
+form label {
+  display: block;
+  width: 30%;
+  margin: auto;
+  padding: 5px 0;
+}
+
+form label > input {
+  border-radius: 5px;
+  float: right;
+}
+form button {
+  display: block;
+  margin: auto;
+  padding: 5px 0;
+}
